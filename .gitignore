@@ -1,0 +1,12 @@
+# Visual Studio
+.vs/
+x64/
+Debug/
+Release/
+*.user
+*.pdb
+*.ilk
+*.obj
+
+# DxLib が実行のたびに書き出すログ
+Log.txt
